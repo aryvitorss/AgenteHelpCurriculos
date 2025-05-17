@@ -1,6 +1,6 @@
 ✨ AGENTE HELP CURRICULOS ✨
 
-![O Projeto](assets/img_curriculo.png)
+![O Projeto](img_curriculo.png)
 
 ## 🛠️ SOBRE O PROJETO:
 
@@ -10,6 +10,12 @@ Um sistema - Agent do Google Gemini que realiza:
 - Exporta o currículo para um arquivo.DOCX;
 - Cria uma SUPER LISTA de vagas conforme o currículo cadastrado;
 - Exporta a SUPER LISTA de vagas para um arquivo.DOCX;
+
+## 🤝 Motivação para este projeto:
+ - Ajudar as pessoas a criar um currículo.
+ - Ajudar as pessoas a encontrar vagas de emprego.
+ - Ajudar pessoas que não sabem ler, escrever, ou tem dificuldade com tecnologia.
+ - Ajudar pessoas a encontrar vagas com acessíbilidade.
 
 ## 💻 Como Executar o Projeto
 
@@ -24,16 +30,16 @@ Siga estas etapas para executar o sistema localmente:
     **Lembrar de gerar e ativar a sua chave GOOGLE, por fim Connectar e rodar** 
 
 ## ⚙️ Exemplo 1 "O Cadastro": 
-![O Projeto_2](assets/ex_curriculo_1.png)
+![O Projeto_2](ex_curriculo_1.png)
 
 ## ⚙️ Exemplo 2 "A Super Lista de Vagas":
-![O Projeto_3](assets/ex_curriculo_2.png)
+![O Projeto_3](ex_curriculo_2.png)
 
 ## ⚙️ Exemplo 3 "Os Arquivos .DOCX":
-![O Projeto_4](assets/ex_curriculo_3.png)
+![O Projeto_4](ex_curriculo_3.png)
 
 ## ⚙️ Exemplo 4 outro modelo de cadastro:
-![O Projeto_5](assets/ex_curriculo_4.png)
+![O Projeto_5](ex_curriculo_4.png)
 
 
 📧 Contato
