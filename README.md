@@ -1,6 +1,6 @@
 ✨ AGENTE HELP CURRICULOS ✨
 
-![O Projeto](blob/main/img_curriculo.png)
+![O Projeto](/img_curriculo.png)
 
 ## 🛠️ SOBRE O PROJETO:
 
