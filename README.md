@@ -14,7 +14,7 @@ Um sistema - Agent do Google Gemini que realiza:
 ## 🤝 Motivação para este projeto:
  - Ajudar as pessoas a criar um currículo.
  - Ajudar as pessoas a encontrar vagas de emprego.
- - Ajudar pessoas que não sabem ler, escrever, ou tem dificuldade com tecnologia.
+ - Ajudar pessoas que não sabem ler, escrever ou tem dificuldade com tecnologia.
  - Ajudar pessoas a encontrar vagas com acessíbilidade.
 
 ## 💻 Como Executar o Projeto
@@ -22,9 +22,9 @@ Um sistema - Agent do Google Gemini que realiza:
 Siga estas etapas para executar o sistema localmente:
 
 1.  **Clone o repositório:**
-    ```bash
-    git clone [https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
-    cd [nome do seu repositório]
+    ```bash  
+    git clone [https://github.com/aryvitorss/AgenteHelpCurriculos.git]
+    cd [AgenteHelpCurriculos]
     ```
 2.  **Inserir os arquivos ou importar em seu Google Colab :**
     **Lembrar de gerar e ativar a sua chave GOOGLE, por fim Connectar e rodar** 
